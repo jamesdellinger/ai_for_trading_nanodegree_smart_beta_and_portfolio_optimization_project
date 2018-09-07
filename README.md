@@ -20,7 +20,7 @@ Topic: Portfolio Optimization, ETFs, Indices, and Stocks.
 * Implementing methods that rebalance portfolio weights at any desired frequency and return the cost, or annualized turnover, of doing so.
 
 ## My Completed Project
-* [ipython notebook](https://github.com/jamesdellinger/ai_for_trading_nanodegree_smart_beta_and_portfolio_optimization_project/blob/master/project_3_starter.ipynb) / [html version](http://htmlpreview.github.com/?https://github.com/jamesdellinger/ai_for_trading_nanodegree_smart_beta_and_portfolio_optimization_project/blob/master/project_3_starter.html)
+* [ipython notebook](http://nbviewer.jupyter.org/github/jamesdellinger/ai_for_trading_nanodegree_smart_beta_and_portfolio_optimization_project/blob/master/project_3_starter.ipynb)
 
 ## Project Grading and Evaluation
 * [Project Review](https://github.com/jamesdellinger/ai_for_trading_nanodegree_smart_beta_and_portfolio_optimization_project/blob/master/smart_beta_and_portfolio_optimization_project_review.pdf)
