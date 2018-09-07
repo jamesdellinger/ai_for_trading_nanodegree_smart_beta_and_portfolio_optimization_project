@@ -5,7 +5,7 @@
 
 For Udacity's [AI for Trading](https://www.udacity.com/course/ai-for-trading--nd880) Nanodegree.
 
-Topic: Portfolio Theory.
+Topic: Portfolio Optimization, ETFs, Indices, and Stocks.
 
 ## Overview
 * Building a smart beta portfolio and calculating its tracking error against a benchmark stock index in order to see how well it performs.
